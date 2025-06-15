@@ -22,6 +22,11 @@ venv/Scripts/activate
 ```
 source venv/bin/activate
 ```
+Выполнить:
+```
+pip install -r requirements.txt
+```
+
 Запустить:
 ```
 python main.py
